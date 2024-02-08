@@ -11,7 +11,7 @@ This repository provides a convenient bash script to streamline the setup and ma
 
 1. **Clone this repository:**
    ```bash
-   git clone <this-repo-url>
+   git clone git@github.com:Marknjo/kubernetes-dashboard.git
    ```
 2. **Make the script executable:**
    ```bash
