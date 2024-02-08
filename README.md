@@ -1,7 +1,6 @@
 # Kubernetes Dashboard Setup
 
-This repository provides a convenient bash script to streamline the setup and management of your Kubernetes dashboard. It handles user creation, token generation, and even starts the dashboard for you.
-
+This repo provides a bash script that simplifies the deployment and management of the Kubernetes Dashboard. With this script, you can easily start, stop, and check the running status of the Dashboard, as well as access it from your browser. The script also handles the creation of an admin service account and cluster role binding, as well as the generation of a bearer token for authentication. The repo will help you to quickly set up and use the Kubernetes Dashboard without manually applying YAML manifests or configuring RBAC permissions.
 ## Usage
 
 - **Kubernetes**: Ensure you have a Kubernetes cluster running locally.
